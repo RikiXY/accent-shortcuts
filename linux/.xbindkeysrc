@@ -1,0 +1,33 @@
+# --- ACCENTI GRAVI (AltGr + lettera) ---
+
+"xdotool type 'À'"
+  ISO_Level3_Shift + a
+
+"xdotool type 'È'"
+  ISO_Level3_Shift + e
+
+"xdotool type 'Ì'"
+  ISO_Level3_Shift + i
+
+"xdotool type 'Ò'"
+  ISO_Level3_Shift + o
+
+"xdotool type 'Ù'"
+  ISO_Level3_Shift + u
+
+# --- ACCENTI ACUTI (AltGr + Shift + lettera) ---
+
+"xdotool type 'Á'"
+  ISO_Level3_Shift + Shift + a
+
+"xdotool type 'É'"
+  ISO_Level3_Shift + Shift + e
+
+"xdotool type 'Í'"
+  ISO_Level3_Shift + Shift + i
+
+"xdotool type 'Ó'"
+  ISO_Level3_Shift + Shift + o
+
+"xdotool type 'Ú'"
+  ISO_Level3_Shift + Shift + u
