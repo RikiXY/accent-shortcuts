@@ -21,11 +21,11 @@ Questo progetto fornisce una soluzione leggera e multipiattaforma per digitare v
 - Su Windows, la notifica iniziale potrebbe non mostrare l’icona corretta (momentaneamento feature sospesa)
 
 ## 📂 Struttura
-accent-shortcuts/
-├── windows/ → Script AHK e .exe per Windows
-├── linux/ → Configurazione per xbindkeys
-├── LICENSE → Licenza MIT
-└── README.md → Questo file
+accent-shortcuts/  
+├── windows/ → Script AHK e .exe per Windows  
+├── linux/ → Configurazione per xbindkeys  
+├── LICENSE → Licenza MIT  
+└── README.md → Questo file  
 
 ## 
 Consulta le cartelle `windows/` o `linux/` per istruzioni di installazione specifiche.

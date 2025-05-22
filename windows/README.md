@@ -4,7 +4,9 @@ Questa cartella contiene gli script e i file eseguibili per attivare le scorciat
 
 ## Opzione 1 – Uso diretto (nessuna installazione necessaria)
 Se vuoi usare subito lo script senza modifiche:
-1. Copia `accentate.exe` nella cartella di esecuzione automatica di Windows: *%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup*. Puoi accedervi rapidamente premendo `Win + R`, digitando `shell:startup` e premendo Invio.
+1. Copia `accentate.exe` nella cartella di esecuzione automatica di Windows:  
+*%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup*.  
+Puoi accedervi rapidamente premendo `Win + R`, digitando `shell:startup` e premendo Invio.
 2. All’avvio del PC, lo script sarà attivo in background. Puoi verificarlo nel **Task Manager** (Gestione attività), sotto il nome di processo: `accent-exe.exe`
 
 ## Opzione 2 – Uso con AutoHotkey (per personalizzazione)
