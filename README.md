@@ -5,8 +5,8 @@ Questo progetto fornisce una soluzione facile, leggera e multipiattaforma (da fa
 ## ✅ Funzionalità
 - `AltGr + lettera` → vocale maiuscola con accento **grave**
 - `AltGr + Shift + lettera` → vocale maiuscola con accento **acuto**
-- `AltGr + Freccia direzionale` → produce il simbolo corrispondente (←→)
-- `AltGr + Shift + Freccia direzionale` → produce il simbolo corrispondente (↑↓)
+- `AltGr + Freccia direzionale` → produce il simbolo corrispondente (←→↑↓)
+- `AltGr + Shift + Freccia direzionale` → produce il simbolo corrispondente (⇐⇒⇑⇓)
 - `AltGr + \` → produce il simbolo Backtick (\`)
 - `AltGr + Shift + \` → produce il simbolo Tile (~)
 

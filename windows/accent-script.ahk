@@ -24,11 +24,17 @@
 <^>!Up::SendText "↑"
 <^>!Down::SendText "↓"
 
+; Frecce direzionali doppie
+<^>!+Left::SendText "⇐"
+<^>!+Right::SendText "⇒"
+<^>!+Up::SendText "⇑"
+<^>!+Down::SendText "⇓"
+
 ; Simboli vari
 <^>!\::SendText "``" ; Backtick
 <^>!+\::SendText "~" ; Tilde
 
 ; ÀÁÈÉÌÍÒÓÙÚ
 ; ←→↑↓
+; ⇐⇒⇑⇓
 ; `~
-
