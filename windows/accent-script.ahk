@@ -23,12 +23,14 @@
 <^>!Right::SendText "→"
 <^>!Up::SendText "↑"
 <^>!Down::SendText "↓"
+<^>!<::SendText "↔" ; Freccia bidirezionale
 
 ; Frecce direzionali doppie
 <^>!+Left::SendText "⇐"
 <^>!+Right::SendText "⇒"
 <^>!+Up::SendText "⇑"
 <^>!+Down::SendText "⇓"
+<^>!+<::SendText "⇔" ; Freccia bidirezionale
 
 ; Simboli vari
 <^>!\::SendText "``" ; Backtick
@@ -36,5 +38,7 @@
 
 ; ÀÁÈÉÌÍÒÓÙÚ
 ; ←→↑↓
+; ↔
 ; ⇐⇒⇑⇓
+; ⇔
 ; `~

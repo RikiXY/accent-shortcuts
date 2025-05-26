@@ -6,7 +6,9 @@ Questo progetto fornisce una soluzione facile, leggera e multipiattaforma (da fa
 - `AltGr + lettera` → vocale maiuscola con accento **grave**
 - `AltGr + Shift + lettera` → vocale maiuscola con accento **acuto**
 - `AltGr + Freccia direzionale` → produce il simbolo corrispondente (←→↑↓)
+- `AltGr + Parentesi angolare Sx (<)` → produce il simbolo corrispondente (↔)
 - `AltGr + Shift + Freccia direzionale` → produce il simbolo corrispondente (⇐⇒⇑⇓)
+- `AltGr + Shift + Parentesi angolare Sx (<)` → produce il simbolo corrispondente (⇔)
 - `AltGr + \` → produce il simbolo Backtick (\`)
 - `AltGr + Shift + \` → produce il simbolo Tile (~)
 
@@ -34,4 +36,3 @@ accent-shortcuts/
 
 ## 
 Consulta le cartelle `windows/` o `linux/` per istruzioni di installazione specifiche.
-
