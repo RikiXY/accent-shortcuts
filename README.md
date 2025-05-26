@@ -1,6 +1,6 @@
 # Accent Shortcuts
 
-Questo progetto fornisce una soluzione leggera e multipiattaforma per digitare vocali maiuscole accentate (À, È, É, Ì, Ò, Ù, ecc.) usando combinazioni di tasti come `AltGr + lettera`.
+Questo progetto fornisce una soluzione facile, leggera e multipiattaforma (da fare) per digitare vocali maiuscole accentate e altri caratteri comodi da usare ma non presenti nelle tastiere italiane.
 
 ## ✅ Funzionalità
 - `AltGr + lettera` → vocale maiuscola con accento **grave**
