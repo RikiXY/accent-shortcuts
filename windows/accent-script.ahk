@@ -17,3 +17,18 @@
 <^>!+i::SendText "Í"
 <^>!+o::SendText "Ó"
 <^>!+u::SendText "Ú"
+
+; Frecce direzionali
+<^>!Left::SendText "←"
+<^>!Right::SendText "→"
+<^>!Up::SendText "↑"
+<^>!Down::SendText "↓"
+
+; Simboli vari
+<^>!\::SendText "``" ; Backtick
+<^>!+\::SendText "~" ; Tilde
+
+; ÀÁÈÉÌÍÒÓÙÚ
+; ←→↑↓
+; `~
+

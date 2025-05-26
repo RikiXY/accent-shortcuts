@@ -1,6 +1,6 @@
 # Uso su Windows
 
-Questa cartella contiene gli script e i file eseguibili per attivare le scorciatoie da tastiera che permettono di digitare lettere accentate maiuscole con combinazioni come `AltGr + e` → `È`.
+Questa cartella contiene gli script e i file eseguibili per attivare le scorciatoie da tastiera che permettono di digitare lettere accentate maiuscole con combinazioni come `AltGr + e` → `È` e le altre opzioni presentate nel README principale.
 
 ## Opzione 1 – Uso diretto (nessuna installazione necessaria)
 Se vuoi usare subito lo script senza modifiche:

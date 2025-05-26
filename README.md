@@ -5,6 +5,11 @@ Questo progetto fornisce una soluzione leggera e multipiattaforma per digitare v
 ## ✅ Funzionalità
 - `AltGr + lettera` → vocale maiuscola con accento **grave**
 - `AltGr + Shift + lettera` → vocale maiuscola con accento **acuto**
+- `AltGr + Freccia direzionale` → produce il simbolo corrispondente (←→)
+- `AltGr + Shift + Freccia direzionale` → produce il simbolo corrispondente (↑↓)
+- `AltGr + \` → produce il simbolo Backtick (\`)
+- `AltGr + Shift + \` → produce il simbolo Tile (~)
+
 - Compatibile con:
   - **Windows** (tramite AutoHotkey v2 o `.exe` precompilato)
   - **Linux** (tramite `xbindkeys` + `xdotool`)

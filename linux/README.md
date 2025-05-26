@@ -1,4 +1,4 @@
-# Uso su Linux
+# Uso su Linux (ancora non sviluppata)
 
 Questa cartella contiene la configurazione per ottenere scorciatoie da tastiera che permettono di digitare lettere accentate maiuscole usando `AltGr + lettera`.
 
