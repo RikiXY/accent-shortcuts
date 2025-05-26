@@ -3,7 +3,8 @@
 Questo progetto fornisce una soluzione facile, leggera e multipiattaforma (da fare) per digitare vocali maiuscole accentate e altri caratteri comodi da usare ma non presenti nelle tastiere italiane.
 
 ## ✅ Funzionalità
-- `AltGr + lettera` → vocale maiuscola con accento **grave**
+- `AltGr + lettera` → vocale maiuscola con accento **grave**.  
+**Nota bene:** per scrivere il carattere dell'euro (€) non si può più usare `AltGr + E` ma si dovrà usare `Ctrl + Alt + E`
 - `AltGr + Shift + lettera` → vocale maiuscola con accento **acuto**
 - `AltGr + Freccia direzionale` → produce il simbolo corrispondente (←→↑↓)
 - `AltGr + Parentesi angolare Sx (<)` → produce il simbolo corrispondente (↔)
